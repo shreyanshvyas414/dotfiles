@@ -1,0 +1,36 @@
+# General Aliases
+alias ls='ls --color=auto'
+alias nis="npm install"
+alias ns="npm start"
+alias nrd="npm run dev"
+alias nt="npm run test"
+alias cls="clear"
+alias co="code"
+alias sc="source"
+alias vi="nvim"
+alias v="nvim"
+alias vim="nvim"
+alias rf="rm -rf"
+alias crn="cargo run"
+alias t="touch"
+alias mkd="mkdir"
+
+# Homebrew Aliases
+alias bl="brew list"
+alias bu="brew uninstall"
+alias bi="brew install"
+
+# Git Aliases
+alias gi="git init"
+alias gl="git log"
+alias gs="git status"
+alias ga="git add"
+alias gif="git diff"
+alias gpu="git push"
+alias gr="git remote -v"
+alias gra="git remote add origin"
+alias gch="git checkout"
+alias hs="history"
+alias gpl="git pull"
+
+

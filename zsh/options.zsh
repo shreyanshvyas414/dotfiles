@@ -1,0 +1,5 @@
+setopt AUTO_CD
+setopt EXTENDED_GLOB
+setopt NO_BEEP
+setopt INTERACTIVE_COMMENTS
+
